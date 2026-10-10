@@ -2,6 +2,8 @@
 
 A tiny interactive story about a red button, a nervous building, and 50 increasingly questionable decisions. Each press advances the plot, changes the control room, and adds an incident to the log. The story ends with a quiet little payoff; press the button again to start over.
 
+Turn on **Voice** in the incident report to hear each new story beat read aloud. Narration uses the browser's built-in speech synthesis, follows the browser's selected English voice, and remembers the voice setting on that device. Speech starts after you enable it; no audio files or external voice service are needed.
+
 **Live site:** [hhgoawispr-seven.vercel.app](https://hhgoawispr-seven.vercel.app/)
 
 ## Run locally
